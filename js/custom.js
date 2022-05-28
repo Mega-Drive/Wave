@@ -418,8 +418,8 @@ $(document).ready(function()
 		{
 			loop:true,
 			margin:10,
-			nav:true,
-			dots:true,
+			nav:false,
+			dots:false,
 			center:true,
 			items:3,
 			responsive:{
