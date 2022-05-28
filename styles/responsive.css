@@ -761,5 +761,30 @@
 
 @media only screen and (max-width: 576px)
 {
-	
+    .header
+    {
+        height: 90px;
+    }
+    .header_container
+    {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .hamburger_container
+    {
+        top: 29px;
+        right: 22px;
+    }
+    .logo
+    {
+        transform: scale(0.85);
+    }
+	.home_text_big
+    {
+        font-size: 48px;
+    }
+    .home_erase_container
+    {
+        width: calc(100% - 30px);
+    }
 }
