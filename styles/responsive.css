@@ -797,7 +797,7 @@
     }
     .menu
     {
-        right: 100%;
+        right: -100%;
         width: 100%;
     }
     .about_image
