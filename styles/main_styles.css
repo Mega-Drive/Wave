@@ -357,6 +357,7 @@ section
 	text-transform: uppercase;
 	color: #FFFFFF;
 	letter-spacing: 0.15em;
+	white-space: nowrap;
 	-webkit-transition: all 200ms ease;
 	-moz-transition: all 200ms ease;
 	-ms-transition: all 200ms ease;
@@ -1138,6 +1139,7 @@ svg > foreignObject
 	height: 390px;
 	margin-top: 80px;
 	border-radius: 40px;
+	overflow: hidden;
 }
 
 /*********************************
